@@ -1,5 +1,4 @@
-# testeo_base
-
+# Estado del animo
 A new Flutter project.
 
 ## Getting Started
@@ -14,3 +13,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+Este proyecto fue creado por el Grupo N°9 de la carrera de Ingeniería Civil Informática, como parte del curso de Metodología de la Investigación-S1 [INF411], sección S1.
